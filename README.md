@@ -20,3 +20,6 @@ Second Test - Pokedex
 
 Third test - Pokemon details
 - after you managed to open the modal, kindly follow the requirement.
+
+
+Okayy
